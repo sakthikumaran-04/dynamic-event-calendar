@@ -1,0 +1,31 @@
+[
+    {
+      "date": "2025-01-09",
+      "name": "Team Meeting",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "description": "Weekly team sync meeting."
+    },
+    {
+      "date": "2025-01-09",
+      "name": "Doctor Appointment",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "description": "Regular check-up with the doctor."
+    },
+    {
+      "date": "2025-01-10",
+      "name": "Project Deadline",
+      "startTime": "23:59",
+      "endTime": "23:59",
+      "description": "Final project submission deadline."
+    },
+    {
+      "date": "2025-01-11",
+      "name": "Conference Call",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "description": "Client conference call regarding the project."
+    }
+  ]
+  
