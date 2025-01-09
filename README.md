@@ -50,7 +50,7 @@ Ensure you have the following installed:
 this project is deployed on vercel.
 
 ```txt
-https://dynamic-event-calendar.vercel.app
+https://the-dynamic-event-calendar.vercel.app
 ```
 
 ---
